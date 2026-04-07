@@ -115,7 +115,7 @@ The gitignore file is for ignoring the ros packages/bundles which are downloaded
 🔧 Developed as part of the Team Aero Drishti, Sardar Vallabhbhai National Institute of Technology Surat
 ### Author 
 Jitesh Jain:  https://github.com/JjGit31
-\\ Jay Pandya:   https://github.com/JayPandyaGit-18
+    , Jay Pandya:   https://github.com/JayPandyaGit-18
 
 🔗  LinkedIn: [profile](https://www.linkedin.com/in/jitesh-jain-06a3b5343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-\\ 🔗  LinkedIn: [profile](www.linkedin.com/in/jay-pandya-06349b375)
+    , 🔗  LinkedIn: [profile](www.linkedin.com/in/jay-pandya-06349b375)
